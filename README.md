@@ -1,2 +1,2 @@
 # datasciencecourseraa
-This is a repository created to for my coursera coursework.
+This is a repository created for my coursera coursework.
